@@ -1,0 +1,14 @@
+C:\Users\theodor.freed\Documents\Programmering\ifsatser\ifsatser\bin\Debug\net8.0\ifsatser.exe
+C:\Users\theodor.freed\Documents\Programmering\ifsatser\ifsatser\bin\Debug\net8.0\ifsatser.deps.json
+C:\Users\theodor.freed\Documents\Programmering\ifsatser\ifsatser\bin\Debug\net8.0\ifsatser.runtimeconfig.json
+C:\Users\theodor.freed\Documents\Programmering\ifsatser\ifsatser\bin\Debug\net8.0\ifsatser.dll
+C:\Users\theodor.freed\Documents\Programmering\ifsatser\ifsatser\bin\Debug\net8.0\ifsatser.pdb
+C:\Users\theodor.freed\Documents\Programmering\ifsatser\ifsatser\obj\Debug\net8.0\ifsatser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theodor.freed\Documents\Programmering\ifsatser\ifsatser\obj\Debug\net8.0\ifsatser.AssemblyInfoInputs.cache
+C:\Users\theodor.freed\Documents\Programmering\ifsatser\ifsatser\obj\Debug\net8.0\ifsatser.AssemblyInfo.cs
+C:\Users\theodor.freed\Documents\Programmering\ifsatser\ifsatser\obj\Debug\net8.0\ifsatser.csproj.CoreCompileInputs.cache
+C:\Users\theodor.freed\Documents\Programmering\ifsatser\ifsatser\obj\Debug\net8.0\ifsatser.dll
+C:\Users\theodor.freed\Documents\Programmering\ifsatser\ifsatser\obj\Debug\net8.0\refint\ifsatser.dll
+C:\Users\theodor.freed\Documents\Programmering\ifsatser\ifsatser\obj\Debug\net8.0\ifsatser.pdb
+C:\Users\theodor.freed\Documents\Programmering\ifsatser\ifsatser\obj\Debug\net8.0\ifsatser.genruntimeconfig.cache
+C:\Users\theodor.freed\Documents\Programmering\ifsatser\ifsatser\obj\Debug\net8.0\ref\ifsatser.dll
